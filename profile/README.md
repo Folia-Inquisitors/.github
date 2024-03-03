@@ -4,10 +4,10 @@ Founded by [Yomamaeatstoes](https://github.com/Yomamaeatstoes), this is an organ
 
 [![Discord](https://discordapp.com/api/guilds/1200954824250888192/widget.png?style=banner2)](https://discord.gg/aT9z7q7hX8)
 
-Affiliated libraries maintained by us used to port plugins
+## Affiliated Libraries
 
-- Minelib maintained by HSGamer ( production ) https://github.com/ProjectUnified/MineLib
-
-- HSCore maintained by HSGamer ( personal ) https://github.com/HSGamer/HSCore
-
-- Folialib maintained by TechnicallyCoded ( production ) https://github.com/TechnicallyCoded/FoliaLib
+| Name | Author | Type | Code |
+| --- | --- | --- | --- |
+| MineLib | [Project Unified](https://github.com/ProjectUnified) | Public | [Link](https://github.com/ProjectUnified/MineLib) |
+| FoliaLib | [TechnicallyCoded](https://github.com/TechnicallyCoded) | Public | [Link](https://github.com/TechnicallyCoded/FoliaLib) |
+| HSCore | [HSGamer](https://github.com/HSGamer) | Personal | [Link](https://github.com/HSGamer/HSCore) |
