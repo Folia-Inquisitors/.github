@@ -4,7 +4,7 @@ Founded by [Yomamaeatstoes](https://github.com/Yomamaeatstoes), this is an organ
 
 [![Discord](https://discordapp.com/api/guilds/1200954824250888192/widget.png?style=banner2)](https://discord.gg/aT9z7q7hX8)
 
-affiliated libraries maintained by used to port plugins
+Affiliated libraries maintained by us used to port plugins
 
 - Minelib maintained by HSGamer ( production ) https://github.com/ProjectUnified/MineLib
 
