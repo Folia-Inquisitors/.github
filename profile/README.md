@@ -6,8 +6,8 @@ Founded by [Yomamaeatstoes](https://github.com/Yomamaeatstoes), this is an organ
 
 ## Affiliated Libraries
 
-| Name | Author | Type | Code |
-| --- | --- | --- | --- |
-| MineLib | [Project Unified](https://github.com/ProjectUnified) | Public | [Link](https://github.com/ProjectUnified/MineLib) |
-| FoliaLib | [TechnicallyCoded](https://github.com/TechnicallyCoded) | Public | [Link](https://github.com/TechnicallyCoded/FoliaLib) |
-| HSCore | [HSGamer](https://github.com/HSGamer) | Personal | [Link](https://github.com/HSGamer/HSCore) |
+| Name | Author | Type |
+| --- | --- | --- |
+| [MineLib](https://github.com/ProjectUnified/MineLib) | [Project Unified](https://github.com/ProjectUnified) | Public |
+| [FoliaLib](https://github.com/TechnicallyCoded/FoliaLib) | [TechnicallyCoded](https://github.com/TechnicallyCoded) | Public |
+| [HSCore](https://github.com/HSGamer/HSCore) | [HSGamer](https://github.com/HSGamer) | Personal |
