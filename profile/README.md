@@ -2,7 +2,7 @@
 
 Founded by [Yomamaeatstoes](https://github.com/Yomamaeatstoes), this is an organization consisting of freelancers with the goal of porting and creating [Folia-supported](https://github.com/PaperMC/Folia) plugins.
 
-_**Commissions of the team that have been used can be accepted through Discord**_
+_**Commissions of the team members can be requested through Discord**_
 
 [![Discord](https://discordapp.com/api/guilds/1200954824250888192/widget.png?style=banner2)](https://discord.gg/aT9z7q7hX8)
 
