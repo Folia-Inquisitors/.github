@@ -2,6 +2,8 @@
 
 This organization was founded by [Yomamaeatstoes](https://github.com/Yomamaeatstoes). It is a collective of freelance developers who create and port plugins compatible with [Folia](https://github.com/PaperMC/Folia). We are always looking for new members to join our team. If you are interested in joining, please contact us through our Discord server.
 
+Archived/discontinued projects, and projects yet to be finsihed are posted here https://github.com/orgs/Inquisitors-transfers/repositories 
+
 ## Affiliated Libraries
 
 The following libraries are used by our organization:
