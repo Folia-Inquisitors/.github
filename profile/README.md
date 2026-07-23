@@ -16,6 +16,6 @@ The following libraries are used by our organization:
 
 ## Requests and Commissions
 
-If you have a plugin that you would like to have ported or an idea that you would like to implement in Folia, please join our Discord server and submit your request.
+Some of the freelancers who helped make this possible are in the discord. If you have a plugin that you would like to have ported or an idea that you would like to implement in Folia, please join our Discord server and submit your request. 
 
 [![Discord](https://discordapp.com/api/guilds/1200954824250888192/widget.png?style=banner2)](https://discord.gg/aT9z7q7hX8)
